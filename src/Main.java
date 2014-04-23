@@ -28,5 +28,7 @@ public final class Main {
                 button.setText("I've been clicked  "+i+" times!");
             }
         });
+        System.out.println("Second commit");
+
     }
 }
